@@ -14,7 +14,7 @@ declare global {
   }
 }
 
-export const currentUSer = (
+export const currentUser = (
   req: Request,
   _res: Response,
   next: NextFunction
